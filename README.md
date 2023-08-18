@@ -1,2 +1,2 @@
 # djangoAPI
- - update readmeMD
+ - try the actions
